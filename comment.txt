@@ -1,0 +1,2 @@
+scripts/SQL_update_d_craftsman_d_product_d_customer_f_order.sql - обновляет данные в DWH
+scripts/SQL_create_customer_report_datamart.sql - создает DM по заданию
